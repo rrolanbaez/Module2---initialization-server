@@ -1,33 +1,79 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
-  ]
+{ "plans" : [
+  {
+    "id": 1,
+    "location": "Rincon",
+    "placesToVisit": [
+      {
+        "name": "El Faro de Rincon",
+        "description": "The iconic Rincon Lighthouse offers panoramic views of the ocean, ideal for whale watching and sunset views.",
+        "images": ["elfaro_rincon_1.jpg", "elfaro_rincon_2.jpg"]
+      },
+      {
+        "name": "Marias Beach",
+        "description": "A popular destination for surfers and beach lovers, known for its beautiful sunsets and laid-back atmosphere.",
+        "images": ["marias_beach_1.jpg", "marias_beach_2.jpg"]
+      },
+      {
+        "name": "Sandy Beach",
+        "description": "A favorite among locals and tourists for its golden sands, clear waters, and vibrant nightlife.",
+        "images": ["sandy_beach_1.jpg", "sandy_beach_2.jpg"]
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Tamboo",
+        "description": "Seaside dining offering a mix of local and international cuisine, with stunning views of the ocean.",
+        "images": ["https://www.visittamboo.com/wp-content/uploads/2022/09/HPI-3-TAMBOO-RESTAURANT-HOTEL-IN-RINCON-PUERTO-RICO-1920x1280.jpg", "tamboo_2.jpg"]
+      },
+      {
+        "name": "The Beach House",
+        "description": "A relaxed atmosphere with an emphasis on fresh, local seafood, perfect for a casual meal by the water. It's the perfect spot to watch the sunset, and it also features live music on Sundays around sunset time.",
+        "images": ["the_beach_house_1.jpg", "the_beach_house_2.jpg"]
+      },
+      {
+        "name": "The English Rose",
+        "description": "Nestled in the hills of Rincon, offering a unique breakfast and brunch menu with breathtaking views.",
+        "images": ["the_english_rose_1.jpg", "the_english_rose_2.jpg"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "location": "Cabo Rojo",
+    "placesToVisit": [
+      {
+        "name": "Playa Sucia",
+        "description": "Offering breathtaking views, crystal-clear waters, and plenty of wilderness to explore, this beach is part of the town’s nature reserve. Just steps away from Los Morrillos Lighthouse.",
+        "images": ["playa_sucia_1.jpg", "playa_sucia_2.jpg"]
+      },
+      {
+        "name": "Playa Buyé",
+        "description": "Playa Buyé offers tranquil, clear waters and pristine white sands, ideal for relaxation and snorkeling.",
+        "images": ["playa_buye_1.jpg", "playa_buye_2.jpg"]
+      },
+      {
+        "name": "Boqueron Beach",
+        "description": "A bustling beach town famous for its wide, family-friendly beach, vibrant community, and delicious street food.",
+        "images": ["boqueron_beach_1.jpg", "boqueron_beach_2.jpg"]
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Buena Vibra Bar & Tapas",
+        "description": "Offers a lively setting with creative local and international tapas, perfect for enjoying crafted cocktails and vibrant ambiance",
+        "images": ["buenavibra_rest_1.jpg", "buenavibra_rest_2.jpg"]
+      },
+      {
+        "name": "El Mercado Boqueron",
+        "description": "It's an open, relaxed atmosphere with tapas, cocktails, and main dishes including fresh fish.",
+        "images": ["elmercado_1.jpg", "elmercado_2.jpg"]
+      },
+      {
+        "name": "Bamboleio",
+        "description": "Local, very fresh, creative seafood, and puertorrican favorites specialties. Panoramic sea view and artisan bar.",
+        "images": ["bamboleio_1.jpg", "bamboleio_2.jpg"]
+      }
+    ]
+  }
+  ] 
 }
