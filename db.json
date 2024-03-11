@@ -1,79 +1,292 @@
-{ "plans" : [
-  {
-    "id": 1,
-    "location": "Rincon",
-    "placesToVisit": [
-      {
-        "name": "El Faro de Rincon",
-        "description": "The iconic Rincon Lighthouse offers panoramic views of the ocean, ideal for whale watching and sunset views.",
-        "images": ["elfaro_rincon_1.jpg", "elfaro_rincon_2.jpg"]
-      },
-      {
-        "name": "Marias Beach",
-        "description": "A popular destination for surfers and beach lovers, known for its beautiful sunsets and laid-back atmosphere.",
-        "images": ["marias_beach_1.jpg", "marias_beach_2.jpg"]
-      },
-      {
-        "name": "Sandy Beach",
-        "description": "A favorite among locals and tourists for its golden sands, clear waters, and vibrant nightlife.",
-        "images": ["sandy_beach_1.jpg", "sandy_beach_2.jpg"]
-      }
-    ],
-    "restaurants": [
-      {
-        "name": "Tamboo",
-        "description": "Seaside dining offering a mix of local and international cuisine, with stunning views of the ocean.",
-        "images": ["https://www.visittamboo.com/wp-content/uploads/2022/09/HPI-3-TAMBOO-RESTAURANT-HOTEL-IN-RINCON-PUERTO-RICO-1920x1280.jpg", "tamboo_2.jpg"]
-      },
-      {
-        "name": "The Beach House",
-        "description": "A relaxed atmosphere with an emphasis on fresh, local seafood, perfect for a casual meal by the water. It's the perfect spot to watch the sunset, and it also features live music on Sundays around sunset time.",
-        "images": ["the_beach_house_1.jpg", "the_beach_house_2.jpg"]
-      },
-      {
-        "name": "The English Rose",
-        "description": "Nestled in the hills of Rincon, offering a unique breakfast and brunch menu with breathtaking views.",
-        "images": ["the_english_rose_1.jpg", "the_english_rose_2.jpg"]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "location": "Cabo Rojo",
-    "placesToVisit": [
-      {
-        "name": "Playa Sucia",
-        "description": "Offering breathtaking views, crystal-clear waters, and plenty of wilderness to explore, this beach is part of the town’s nature reserve. Just steps away from Los Morrillos Lighthouse.",
-        "images": ["playa_sucia_1.jpg", "playa_sucia_2.jpg"]
-      },
-      {
-        "name": "Playa Buyé",
-        "description": "Playa Buyé offers tranquil, clear waters and pristine white sands, ideal for relaxation and snorkeling.",
-        "images": ["playa_buye_1.jpg", "playa_buye_2.jpg"]
-      },
-      {
-        "name": "Boqueron Beach",
-        "description": "A bustling beach town famous for its wide, family-friendly beach, vibrant community, and delicious street food.",
-        "images": ["boqueron_beach_1.jpg", "boqueron_beach_2.jpg"]
-      }
-    ],
-    "restaurants": [
-      {
-        "name": "Buena Vibra Bar & Tapas",
-        "description": "Offers a lively setting with creative local and international tapas, perfect for enjoying crafted cocktails and vibrant ambiance",
-        "images": ["buenavibra_rest_1.jpg", "buenavibra_rest_2.jpg"]
-      },
-      {
-        "name": "El Mercado Boqueron",
-        "description": "It's an open, relaxed atmosphere with tapas, cocktails, and main dishes including fresh fish.",
-        "images": ["elmercado_1.jpg", "elmercado_2.jpg"]
-      },
-      {
-        "name": "Bamboleio",
-        "description": "Local, very fresh, creative seafood, and puertorrican favorites specialties. Panoramic sea view and artisan bar.",
-        "images": ["bamboleio_1.jpg", "bamboleio_2.jpg"]
-      }
-    ]
-  }
-  ] 
+{
+  "plans": [
+    {
+      "id": 1,
+      "location": "Rincon",
+      "placesToVisit": [
+        {
+          "name": "El Faro de Rincon",
+          "description": "The iconic Rincon Lighthouse offers panoramic views of the ocean, ideal for whale watching and sunset views.",
+          "images": [
+            "https://www.discoveringpuertorico.com/wp-content/rincon_lighthouse_1.jpg",
+            "https://live.staticflickr.com/3669/9805187513_42cbb67c4d_b.jpg"
+          ]
+        },
+        {
+          "name": "Marias Beach",
+          "description": "A popular destination for surfers and beach lovers, known for its beautiful sunsets and laid-back atmosphere.",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8c/6b/1a/nice-surfing-beach.jpg?w=1200&h=-1&s=1",
+            "https://boricuaonline.com/wp-content/uploads/2020/07/Playa-Maria-Rincon-side.jpg"
+          ]
+        },
+        {
+          "name": "Sandy Beach",
+          "description": "A favorite among locals and tourists for its golden sands, clear waters, and vibrant nightlife.",
+          "images": [
+            "https://www.aroundtheworldl.com/wp-content/uploads/2014/08/DSC00543.jpg",
+            "https://photos.zeepuertorico.com/RINC%C3%93N-Playa%20Sandy%5EIMG_7037-BIG.jpg"
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Tamboo",
+          "description": "Seaside dining offering a mix of local and international cuisine, with stunning views of the ocean.",
+          "images": [
+            "https://www.visittamboo.com/wp-content/uploads/2022/09/HPI-2-TAMBOO-RESTAURANT-HOTEL-IN-RINCON-PUERTO-RICO-1920x1280.jpg",
+            "https://www.visittamboo.com/wp-content/uploads/2023/08/HPI-2-TAMBOO-RESTAURANT-HOTEL-IN-RINCON-PUERTO-RICO-min-1920x1280.jpg"
+          ]
+        },
+        {
+          "name": "The Beach House",
+          "description": "A relaxed atmosphere with an emphasis on fresh, local seafood, perfect for a casual meal by the water. It's the perfect spot to watch the sunset, and it also features live music on Sundays around sunset time.",
+          "images": [
+            "https://media-cdn.tripadvisor.com/media/photo-s/0d/ba/a9/92/view-from-413-road-to.jpg",
+            "https://d14tal8bchn59o.cloudfront.net/cFVqX1QJuqBQrNnOTGDurFhOQD_yxFkHxSUtargDnSI/w:1920/plain/https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/32912/photos/1443123/image-asset_original.jpeg",
+            "https://media-cdn.tripadvisor.com/media/photo-s/11/fa/fd/40/sunset-view-from-the.jpg"
+            
+          ]
+        },
+        {
+          "name": "The English Rose",
+          "description": "Nestled in the hills of Rincon, offering a unique breakfast and brunch menu with breathtaking views.",
+          "images": [
+            "https://static1.squarespace.com/static/5fc95a97e3630965c74d7768/t/621e86720893e86aa01a8e2e/1646167672632/EAT_7.jpeg?format=1500w",
+            "https://images.squarespace-cdn.com/content/v1/5fc95a97e3630965c74d7768/02159280-6fe6-4b41-ba7a-d3de0476dbe6/EAT_2.jpeg" 
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "location": "Cabo Rojo",
+      "placesToVisit": [
+        {
+          "name": "Playa Sucia",
+          "description": "Offering breathtaking views, crystal-clear waters, and plenty of wilderness to explore, this beach is part of the town’s nature reserve. Just steps away from Los Morrillos Lighthouse.",
+          "images": ["https://www.alluringworld.com/wp-content/uploads/2023/07/1-Sucia-700x440.jpg", 
+          " https://a.travel-assets.com/findyours-php/viewfinder/images/res70/243000/243699-Playa-Sucia.jpg "]
+        },
+        {
+          "name": "Playa Buyé",
+          "description": "Playa Buyé offers tranquil, clear waters and pristine white sands, ideal for relaxation and snorkeling.",
+          "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/36/7c/58/incredible-view.jpg?w=1200&h=1200&s=1", 
+          " https://lh5.googleusercontent.com/p/AF1QipMUaDvgTkcGljiwItq_-JfnTv_WGp3dl0KctQAO=s1600 "]
+        },
+        {
+          "name": "Boqueron Beach",
+          "description": "A bustling beach town famous for its wide, family-friendly beach, vibrant community, and delicious street food.",
+          "images": ["https://i.pinimg.com/736x/49/95/9d/49959ddb977c7d54ab4418e126d85edd.jpg", 
+          " https://caborojopr.com/wp-content/uploads/boqueron-beach-playa-balneario-clear-water-beach-puerto-rico.jpg "]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Buena Vibra Bar & Tapas",
+          "description": "Offers a lively setting with creative local and international tapas, perfect for enjoying crafted cocktails and vibrant ambiance",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/styles/square_image/public/2023-11/buena-vibra-cabo-rojo-outside.jpg?h=706dfa35&itok=hhjJ8okm", 
+            " https://fastly.4sqi.net/img/general/600x600/55042520_CcXHfRediNMu5_VsMZTk3Gmixdzrg6vaSE-Uq-swZFg.jpg "
+          ]
+        },
+        {
+          "name": "El Mercado Boqueron",
+          "description": "It's an open, relaxed atmosphere with tapas, cocktails, and main dishes including fresh fish.",
+          "images": [
+            "https://lh3.googleusercontent.com/p/AF1QipOLjRQc0SuGWKKFs3-b2m7xdAUmLU-egrARgRwU=s680-w680-h510", 
+            "https://s3-media0.fl.yelpcdn.com/bphoto/xZGOJslDiZPkNEXvj94E4g/1000s.jpg"
+          ]
+        },
+        {
+          "name": "Bamboleio",
+          "description": "Local, very fresh, creative seafood, and puertorrican favorites specialties. Panoramic sea view and artisan bar.",
+          "images": [
+            "https://s3-media0.fl.yelpcdn.com/bphoto/QylZ1vugMhSywkv7ZPqdqQ/348s.jpg", 
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/2553/191-3-10755_jpeg0-2c1d33fb5056a36_2c1d3599-5056-a36a-08ce966d6e98afbd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "location": "Fajardo",
+      "placesToVisit": [
+        {
+          "name": "Seven Seas Beach",
+          "description": "The water in this beach is calm and crystal clear, making it a perfect spot for swimming, snorkeling, kayaking, hiking, and more. You can also do a walk to Playa Colora and Playa Escondida.",
+          "images": [
+            "https://www.puertoricodaytrips.com/wp-images-1000x560/seven-seas-1.jpg",
+            "https://www.puertoricodaytrips.com/wp-images-post/seven-seas-1b.jpg"
+          ]
+        },
+        {
+          "name": "La Zanja",
+          "description": "La Zanja is a natural pool created when the waves from the Atlantic crash on the rocks and fill in the long, “ditch-like” indentation. If you like adventure, it’s about a 20- to 30-minute hike from Seven Seas to this secluded location, and you’ll get to enjoy some scenery along the road less-traveled.",
+          "images": [
+            "https://www.puertoricodaytrips.com/wp-images-lead/la-zanja-1.jpg", 
+            "https://jaywalktheworld.com/wp-content/uploads/2023/06/la-zanja-18-.jpg"
+          ]
+        },
+        {
+          "name": "Playa Escondida and Playa Colorá",
+          "description": "Playa Escondida and Playa Colorá are two of Fajardo’s hidden gems. To get to them you will have to do a little bit of hiking. To reach Playa Escondida and Playa Colorá, you'll need to do a 25-minute hike from Seven Seas Beach through a mangrove forest.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/8939/191-3-10269_jpeg0-23093d2f5056a36_23093ea7-5056-a36a-08b6958761c96b29.jpg",
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/8939/191-3-10264_jpeg0-22fbcf3b5056a36_22fbd4ec-5056-a36a-085f57aa9e255882.jpg"
+           
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Seven Seas Food Park",
+          "description": "Located in Seven Seas Beach, these food trucks offer a wide variety of local foods and drinks for all tastes, so you can come to eat and enjoy a spectacular beach atmosphere, breeze, and sea with your entire family.",
+          "images": [
+            "https://scontent.fsju2-1.fna.fbcdn.net/v/t39.30808-6/339123158_1229151564381029_1878001617367305899_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Du2mh98JgaYAX8bY8bN&_nc_ht=scontent.fsju2-1.fna&oh=00_AfAQWdg0AZCDfCSVBXmED-rZ6s0wRBx1odcmMUnG1NjIwg&oe=65F3D2BB",
+            "https://sevenseasfoodpark.com/wp-content/uploads/2021/12/Plato-Jukiaos-1000x565.jpg"
+          ]
+        },
+        {
+          "name": "Cinco Nudos",
+          "description": "It's located inside Fajardo's Marina Puerto Rico. This restaurant highlights the delicacies of the sea merged with traditional creole techniques.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/3791/191-3-10276_jpeg0-2c30eaec5056a36_2c30ec9d-5056-a36a-082ff0d100d45d50.jpg",
+            "https://old.bienvenidospuertorico.net/wp-content/uploads/2017/04/DSC7123-750x350.jpg"
+          ]
+        },
+        {
+          "name": "Las Vistas Café",
+          "description": "An open-terrace with a view overlooking the Cabezas de San Juan Nature Reserve is the perfect setting for a delicious, homey brunch at Las Vistas Café.",
+          "images": [
+            "https://lh3.googleusercontent.com/proxy/3SydJepW19NIji7mToWEWtaTwkj6qSjCWrCYL0K83Oagv1lUYES4ZViV1tU6uugenGHvesv1MU-h8sTtbnAhmh2oqzTEEI6J",
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/3657/Vistas-Caf--3_B7DDD0DB-5056-A36A-08C3CC5BA939F4D8-b7ddcf325056a36_b7ddd134-5056-a36a-08fef4018dc9a2be.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "location": "Ponce",
+      "placesToVisit": [
+        {
+          "name": "Ponce Art Museum",
+          "description": "Explore a rich collection of Puerto Rican and European art in a beautiful museum located in the heart of Ponce.",
+          "images": [
+            "https://museoarteponce.org/wp-content/uploads/2020/02/Thumbnails_MAP_video9.jpg",
+            "https://www.design-sessions.com/wp-content/uploads/2014/11/dsc5873_sfw.jpg"
+          ]
+        },
+        {
+          "name": "La Guancha Boardwalk",
+          "description": "Enjoy a vibrant waterfront experience at La Guancha, featuring restaurants, shops, and a scenic boardwalk in Ponce.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/8482/191-3-10546_jpeg0-5f2aa0265056a36_5f2aa198-5056-a36a-084be79ab5ec6b3d.jpg",
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/8482/243461-Ponce_5E6686B8-5056-A36A-081FCE1651835324-5e66841e5056a36_5e668e5a-5056-a36a-08b28e6f1ce9b5c5.jpg"
+          ]
+        },
+        {
+          "name": "Museo Castillo Serrallés",
+          "description": "A 1930s palace converted into a local history museum, featuring elaborately landscaped gardens in its surroundings.",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/77/20/2b/our-castle-and-cross.jpg?w=1200&h=1200&s=1",
+            "https://visitponce.com/wp-content/uploads/2022/08/castillomainpic1.jpg"
+          ]
+        },
+        {
+          "name": "Caja de Muertos",
+          "description": "Take a boat trip to Caja de Muertos (Coffin Island), a nature reserve with beautiful beaches and hiking trails.",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/68/29/c1/caja-de-muertos-en-ponce.jpg?w=1200&h=1200&s=1",
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/9912/puerto-rico-8_73A4E64C-5056-A36A-0826D210D912DFE1-73a4e5885056a36_73a4eeb1-5056-a36a-083ce3fa8e0272c3.jpg"
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Panadería y Repostería La Comercio",
+          "description": "Operating for over 25 years, Panadería y Repostería La Comercio offers a variety of pastry sweets, bread, a selection of sandwiches, juices, among other items. We provide wholesale services for cafes and/or restaurants.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/styles/share_image/public/listing_images/profile/12738/Panaderia-y-Reposteria-La-Comercio-2_01D8CB7A-5056-A36A-08C58BBF9754A10E-01d8caca5056a36_01d8cbd0-5056-a36a-081346d9bc168ab9.jpg?h=827069f2&itok=6jODPcnK",
+            "https://lh3.googleusercontent.com/p/AF1QipMKdjBOm6PfKtx_gg6-srnBOKo4gaqhSEQgXT_Y=s1360-w1360-h1020"
+          ]
+        },
+        {
+          "name": "La Casa del Chef",
+          "description": "Local art on the walls gives this eatery a bright, lively atmosphere, but the service and Puerto Rican haute cuisine are what truly set it apart. A few of the local-favorite dishes include lobster a la Criolla, fresh octopus salad, and savory mofongo. Also on the menu at La Casa del Chef, you will find a variety of seafood and meat cuts as well as tasty homemade desserts.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/styles/horizontal/public/2019-02/La%20Casa%20del%20Chef%20Restaurant-2.jpg?h=790be497&itok=kURomxTP",
+            "https://scontent.fsju2-1.fna.fbcdn.net/v/t1.18169-9/11228028_1095810260453461_7172892484223341335_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9YK58kP9NIAAX99B23T&_nc_ht=scontent.fsju2-1.fna&oh=00_AfBgRNDo7aIetcXMDsJktS5G14uV_EC1op0UhCgV1oGTYg&oe=6616BE34"
+          ]
+        },
+        {
+          "name": "La boya ",
+          "description": ".",
+          "images": [
+            "https://lh3.googleusercontent.com/p/AF1QipOqWeP5yqkY5bY67WqJJOwXy6LZXCHRsup8lQRe=s1360-w1360-h1020",
+            "https://lh3.googleusercontent.com/p/AF1QipO0r-MYGfppgv-NYVHVdzf0qv2AE8Ul2D1bnYFn=s1360-w1360-h1020"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "location": "Luquillo",
+      "placesToVisit": [
+        {
+          "name": "Luquillo Beach",
+          "description": "Known as 'La Monserrate,' Luquillo Beach is a beautiful crescent-shaped beach with calm waters and a backdrop of lush green mountains.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/5042/Kioskos-de-Luquillo-6_36988A41-5056-A36A-08D65EFA5E21D7B6-36987f165056a36_36988c93-5056-a36a-084a05349f6d29a4.jpg",
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/83/f1.jpg" 
+          ]
+        },
+        {
+          "name": "El Yunque National Forest",
+          "description": "Explore the tropical rainforest of El Yunque, located nearby, with hiking trails, waterfalls, and diverse flora and fauna.",
+          "images": [
+            "https://a.cdn-hotels.com/gdcs/production76/d867/56d4594c-7058-4537-8190-4db049fd6a82.jpg",
+            "https://image-tc.galaxy.tf/wijpeg-6x5d26gt7p2pukgjjmoyqkb4n/2-el-yunque-forest_standard.jpg?crop=57%2C0%2C867%2C650"
+          ]
+        },
+        {
+          "name": "Balneario Monserrate",
+          "description": "A family-friendly beach area with clear waters and facilities, perfect for a day of swimming, picnics, and relaxation.",
+          "images": [
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/9042/Parque-Nacional-La-Monserrate-4_56CB7D77-5056-A36A-08AC0E87DCE00100-56cb7ad05056a36_56cb7dcd-5056-a36a-08160e1cd449cfe3.jpg",
+            "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/9042/Balneario-La-Monserrate-Luquillo_0059-2_382FCC9D-5056-A36A-08E8E95005D68258-382fbfb65056a36_382fd0b5-5056-a36a-08e5ec2e45d54306.jpg" 
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "La Parrilla",
+          "description": "A popular grill restaurant in Luquillo were is located in 'Los kioskos de Luquillo' were are more then 60 establishments but, La Parrilla  offers a variety of grilled meats and local specialties in a lively atmosphere.",
+          "images": [
+            "https://scontent.fsju2-1.fna.fbcdn.net/v/t39.30808-6/241876145_4581013961961150_6349879942901939566_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TZNWRThwRN4AX_xnym6&_nc_oc=AQm3sqYSAGFJH8n5keZpFHDGf8qzSJXoP0rbfu_WjWR-9NcNRsOGvl6hDi_WUUvEVucZBvz4cZBrSsw8L3lJ6Yay&_nc_ht=scontent.fsju2-1.fna&oh=00_AfCJIqkQB_UvMh1LFPJXL420IjqUmVeSctErDqUwJ39cMA&oe=65F4907C",
+            "https://scontent.fsju2-1.fna.fbcdn.net/v/t39.30808-6/241818089_4579918748737338_256776813220953659_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XUNCZ6UnAaUAX8jdfkD&_nc_ht=scontent.fsju2-1.fna&oh=00_AfAlkwHQgBXK_pgtKiMAbJ_wQZKkXo1Fw8GmEJ3WBxmYdA&oe=65F4A450"
+          ]
+        },
+        {
+          "name": "Boardriders Surf Bar & Grill",
+          "description": "Located near the beach, Boardriders offers a relaxed setting with surf-themed decor and a menu featuring fresh seafood and tropical drinks.",
+          "images": [
+            "https://lh3.googleusercontent.com/p/AF1QipMDb1t85CnVnLZNPAwfQnycoZrm1aNEF3joLi1N=s1360-w1360-h1020",
+            "https://lh3.googleusercontent.com/p/AF1QipOKxslpYshneUnck7l1STR9n8TxTygMPK4xvJMP=s1360-w1360-h1020"
+          ]
+        },
+        {
+          "name": "Carabali Bar & Grill",
+          "description": "It offers traditional Puerto Rican dishes in a casual and fun atmosphere. Also counts with a paradisiacal land teeming with lush flora and fauna, making it one of the favorite adventure destinations on the island. Our park allows you to experience the rainforest through a variety of exciting tours and excursions.",
+          "images": [
+            "https://media-cdn.tripadvisor.com/media/photo-s/2a/a2/05/c7/our-palapas-patio.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-s/1b/93/9f/70/mofongo-de-langosta-lobster.jpg"  
+          ]
+        }
+      ]
+    }
+  ]
 }
+
+
+
