@@ -2,7 +2,8 @@
   "plans": [
     {
       "id": 1,
-      "location": "Rincon",
+      "location": "Rincón",
+      "thumbnail": "https://img.huffingtonpost.com/asset/62744522210000cf6c507860.jpg?cache=hmiH9NcJc1&ops=1778_1000",
       "placesToVisit": [
         {
           "name": "El Faro de Rincon",
@@ -61,6 +62,7 @@
     {
       "id": 2,
       "location": "Cabo Rojo",
+      "thumbnail": "https://caborojopr.com/wp-content/uploads/cabo-rojo-puerto-rico-beaches-2022.jpg",
       "placesToVisit": [
         {
           "name": "Playa Sucia",
@@ -111,6 +113,7 @@
     {
       "id": 3,
       "location": "Fajardo",
+      "thumbnail": "https://www.puertoricotravelguide.com/wp-content/uploads/fajardo-puerto-rico-1.jpg",
       "placesToVisit": [
         {
           "name": "Seven Seas Beach",
@@ -168,6 +171,7 @@
     {
       "id": 4,
       "location": "Ponce",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/theweeklyjournal.com/content/tncms/assets/v3/editorial/b/26/b26af014-131a-11eb-a227-676b0e3a60b7/5f8f55c53ee44.image.jpg",
       "placesToVisit": [
         {
           "name": "Ponce Art Museum",
@@ -232,6 +236,7 @@
     {
       "id": 5,
       "location": "Luquillo",
+      "thumbnail": " https://www.elnuevodia.com/resizer/2Cyah9Lxm-LwAy699JUmOntFTwM=/1200x675/filters:quality(75):format(jpeg):focal(2570x1335:2580x1325)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/CW54FFQUVFBWHMCG53HJMXCKFA.jpg ",
       "placesToVisit": [
         {
           "name": "Luquillo Beach",
