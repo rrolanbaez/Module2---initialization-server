@@ -298,9 +298,9 @@
   "itineraries": [
     {
       "id": 1,
-      "iteneraryName": "March Trip",
-      "startDate": "2024-03-14T11:45",
-      "endDate": "2024-03-20T11:45",
+      "iteneraryName": "March Trip ",
+      "startDate": "2024-03-25",
+      "endDate": "2024-03-29",
       "placesWillVisit": [
         {
           "city": "Luquillo",
@@ -349,8 +349,39 @@
               "https://boricuaonline.com/wp-content/uploads/2020/07/Playa-Maria-Rincon-side.jpg"
             ]
           }
+        },
+        {
+          "city": "Cabo Rojo",
+          "date": "2024-03-29T13:38",
+          "place": {
+            "name": "Playa Sucia",
+            "description": "Offering breathtaking views, crystal-clear waters, and plenty of wilderness to explore, this beach is part of the town’s nature reserve. Just steps away from Los Morrillos Lighthouse.",
+            "images": [
+              "https://www.alluringworld.com/wp-content/uploads/2023/07/1-Sucia-700x440.jpg",
+              " https://a.travel-assets.com/findyours-php/viewfinder/images/res70/243000/243699-Playa-Sucia.jpg "
+            ]
+          }
+        },
+        {
+          "city": "Rincón",
+          "date": "2024-03-29T13:50",
+          "place": {
+            "name": "Marias Beach",
+            "description": "A popular destination for surfers and beach lovers, known for its beautiful sunsets and laid-back atmosphere.",
+            "images": [
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8c/6b/1a/nice-surfing-beach.jpg?w=1200&h=-1&s=1",
+              "https://boricuaonline.com/wp-content/uploads/2020/07/Playa-Maria-Rincon-side.jpg"
+            ]
+          }
         }
       ]
+    },
+    {
+      "id": 9,
+      "iteneraryName": "now with places",
+      "startDate": "2024-03-22",
+      "endDate": "2024-03-28",
+      "placesWillVisit": []
     }
   ]
 }
