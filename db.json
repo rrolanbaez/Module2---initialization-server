@@ -6,7 +6,7 @@
       "thumbnail": "https://img.huffingtonpost.com/asset/62744522210000cf6c507860.jpg?cache=hmiH9NcJc1&ops=1778_1000",
       "placesToVisit": [
         {
-          "name": "El Faro de Rincon",
+          "name": "El Faro de Rincón",
           "description": "The iconic Rincon Lighthouse offers panoramic views of the ocean, ideal for whale watching and sunset views.",
           "images": [
             "https://www.discoveringpuertorico.com/wp-content/rincon_lighthouse_1.jpg",
@@ -229,7 +229,7 @@
         },
         {
           "name": "La boya ",
-          "description": ".",
+          "description": "La Boya in Puerto Rico is a culinary gem, offering a tantalizing fusion of Caribbean, Latin, Seafood, and Spanish cuisines. With a focus on fresh seafood and innovative flavors, our restaurant promises a memorable dining experience that captures the vibrant spirit of the island. Come savor the best of Puerto Rico's culinary heritage at La Boya.",
           "images": [
             "https://lh3.googleusercontent.com/p/AF1QipOqWeP5yqkY5bY67WqJJOwXy6LZXCHRsup8lQRe=s1360-w1360-h1020",
             "https://lh3.googleusercontent.com/p/AF1QipO0r-MYGfppgv-NYVHVdzf0qv2AE8Ul2D1bnYFn=s1360-w1360-h1020"
@@ -239,6 +239,47 @@
     },
     {
       "id": 5,
+      "location": "Culebra",
+      "thumbnail": "https://lp-cms-production.imgix.net/2020-11/GettyRF_482043457.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
+      "placesToVisit": [
+        {
+          "name": "Flamenco Beach",
+          "description": "Flamenco Beach is consistently ranked among the top beaches in the world for its pristine white sand and turquoise waters. It's a paradise for sunbathers, swimmers, and snorkelers.",
+          "images": [
+            " https://static.wixstatic.com/media/f5514f_75ab8a4941274dc49a92f532d1a45eaf~mv2.jpg/v1/fill/w_640,h_408,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f5514f_75ab8a4941274dc49a92f532d1a45eaf~mv2.jpg ",
+            " https://finallylost.com/wp-content/uploads/2017/05/flamenco-beach-puerto-rico-one-of-the-best-beaches-in-the-world-01.jpg "
+          ]
+        },
+        {
+          "name": "Culebrita Island",
+          "description": "Culebrita Island is a small uninhabited island off the coast of Culebra, known for its secluded beaches and hiking trails. It's a tranquil retreat for nature enthusiasts.",
+          "images": [
+            " https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcT9bnPxd0ctTlu1JhUEVvASjrEx8_745u5e65P5-ARhtrSWHZHVCQoqcqD0e-nQb0M7tRc5W8JaJsUnxbpYaMDvhqUw_XS3TdTLzW7jRA ",
+            " https://www.puertorico.com/wp-content/uploads/2023/02/Culebrita-min-1.jpg "
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Zacos Tacos",
+          "description": "Zaco's Tacos offers delicious Mexican-inspired cuisine with a Caribbean twist. Located in Culebra, it's a favorite spot for tacos, burritos, and margaritas.",
+          "images": [
+            " https://www.culebrarealestatesales.com/culebrazacostacosrestaurant/culebrazacostacos400.jpg ",
+            " https://www.foodiespr.com/wp-content/uploads/2014/02/tostada-600x338.jpg"
+          ]
+        },
+        {
+          "name": "Culebra Coffee",
+          "description": "Culebra Coffee offers a cozy ambiance and a diverse menu perfect for brunch lovers. With locally sourced ingredients and artisanal coffee, they provide a delightful dining experience. It's a beloved spot in the neighborhood for those seeking quality fare and a welcoming atmosphere. ",
+          "images": [
+            "https://images.happycow.net/venues/1024/19/27/hcmp192779_816465.jpeg",
+            " https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/dd/b8/69/photo1jpg.jpg?w=600&h=400&s=1 "
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
       "location": "Luquillo",
       "thumbnail": " https://www.elnuevodia.com/resizer/2Cyah9Lxm-LwAy699JUmOntFTwM=/1200x675/filters:quality(75):format(jpeg):focal(2570x1335:2580x1325)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/CW54FFQUVFBWHMCG53HJMXCKFA.jpg ",
       "placesToVisit": [
@@ -298,90 +339,108 @@
   "itineraries": [
     {
       "id": 1,
-      "iteneraryName": "March Trip ",
-      "startDate": "2024-03-25",
-      "endDate": "2024-03-29",
+      "iteneraryName": "Spring Break 2",
+      "startDate": "2024-03-18",
+      "endDate": "2024-03-21",
       "placesWillVisit": [
         {
-          "city": "Luquillo",
-          "date": "2024-03-15T11:45",
+          "city": "Fajardo",
+          "date": "2024-03-26T10:38",
           "place": {
-            "name": "El Yunque National Forest",
-            "description": "Explore the tropical rainforest of El Yunque, located nearby, with hiking trails, waterfalls, and diverse flora and fauna.",
+            "name": "Seven Seas Beach",
+            "description": "The water in this beach is calm and crystal clear, making it a perfect spot for swimming, snorkeling, kayaking, hiking, and more. You can also do a walk to Playa Colora and Playa Escondida.",
             "images": [
-              "https://a.cdn-hotels.com/gdcs/production76/d867/56d4594c-7058-4537-8190-4db049fd6a82.jpg",
-              "https://image-tc.galaxy.tf/wijpeg-6x5d26gt7p2pukgjjmoyqkb4n/2-el-yunque-forest_standard.jpg?crop=57%2C0%2C867%2C650"
+              "https://www.puertoricodaytrips.com/wp-images-1000x560/seven-seas-1.jpg",
+              "https://www.puertoricodaytrips.com/wp-images-post/seven-seas-1b.jpg"
             ]
           }
         },
         {
-          "city": "Luquillo",
-          "date": "2024-3-16T11:45",
+          "city": "Fajardo",
+          "date": "2024-03-21T10:45",
           "place": {
-            "name": "Carabali Bar & Grill",
-            "description": "It offers traditional Puerto Rican dishes in a casual and fun atmosphere. Also counts with a paradisiacal land teeming with lush flora and fauna, making it one of the favorite adventure destinations on the island. Our park allows you to experience the rainforest through a variety of exciting tours and excursions.",
+            "name": "Cinco Nudos",
+            "description": "It's located inside Fajardo's Marina Puerto Rico. This restaurant highlights the delicacies of the sea merged with traditional creole techniques.",
             "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-s/2a/a2/05/c7/our-palapas-patio.jpg",
-              "https://media-cdn.tripadvisor.com/media/photo-s/1b/93/9f/70/mofongo-de-langosta-lobster.jpg"
-            ]
-          }
-        },
-        {
-          "city": "Rincón",
-          "date": "2024-03-12T11:45",
-          "place": {
-            "name": "El Faro de Rincon",
-            "description": "The iconic Rincon Lighthouse offers panoramic views of the ocean, ideal for whale watching and sunset views.",
-            "images": [
-              "https://www.discoveringpuertorico.com/wp-content/rincon_lighthouse_1.jpg",
-              "https://live.staticflickr.com/3669/9805187513_42cbb67c4d_b.jpg"
-            ]
-          }
-        },
-        {
-          "city": "Rincón",
-          "date": "2024-03-19T11:48",
-          "place": {
-            "name": "Marias Beach",
-            "description": "A popular destination for surfers and beach lovers, known for its beautiful sunsets and laid-back atmosphere.",
-            "images": [
-              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8c/6b/1a/nice-surfing-beach.jpg?w=1200&h=-1&s=1",
-              "https://boricuaonline.com/wp-content/uploads/2020/07/Playa-Maria-Rincon-side.jpg"
-            ]
-          }
-        },
-        {
-          "city": "Cabo Rojo",
-          "date": "2024-03-29T13:38",
-          "place": {
-            "name": "Playa Sucia",
-            "description": "Offering breathtaking views, crystal-clear waters, and plenty of wilderness to explore, this beach is part of the town’s nature reserve. Just steps away from Los Morrillos Lighthouse.",
-            "images": [
-              "https://www.alluringworld.com/wp-content/uploads/2023/07/1-Sucia-700x440.jpg",
-              " https://a.travel-assets.com/findyours-php/viewfinder/images/res70/243000/243699-Playa-Sucia.jpg "
-            ]
-          }
-        },
-        {
-          "city": "Rincón",
-          "date": "2024-03-29T13:50",
-          "place": {
-            "name": "Marias Beach",
-            "description": "A popular destination for surfers and beach lovers, known for its beautiful sunsets and laid-back atmosphere.",
-            "images": [
-              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8c/6b/1a/nice-surfing-beach.jpg?w=1200&h=-1&s=1",
-              "https://boricuaonline.com/wp-content/uploads/2020/07/Playa-Maria-Rincon-side.jpg"
+              "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/3791/191-3-10276_jpeg0-2c30eaec5056a36_2c30ec9d-5056-a36a-082ff0d100d45d50.jpg",
+              "https://old.bienvenidospuertorico.net/wp-content/uploads/2017/04/DSC7123-750x350.jpg"
             ]
           }
         }
       ]
     },
     {
-      "id": 9,
-      "iteneraryName": "now with places",
-      "startDate": "2024-03-22",
-      "endDate": "2024-03-28",
-      "placesWillVisit": []
+      "id": 2,
+      "iteneraryName": "March Trip 5",
+      "startDate": "2024-03-25",
+      "endDate": "2024-03-29",
+      "placesWillVisit": [
+        {
+          "city": "Fajardo",
+          "date": "",
+          "place": {
+            "name": "Seven Seas Beach",
+            "description": "The water in this beach is calm and crystal clear, making it a perfect spot for swimming, snorkeling, kayaking, hiking, and more. You can also do a walk to Playa Colora and Playa Escondida.",
+            "images": [
+              "https://www.puertoricodaytrips.com/wp-images-1000x560/seven-seas-1.jpg",
+              "https://www.puertoricodaytrips.com/wp-images-post/seven-seas-1b.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "iteneraryName": "March Trip 4",
+      "startDate": "2024-03-25",
+      "endDate": "2024-03-29",
+      "placesWillVisit": [
+        {
+          "city": "Luquillo",
+          "date": "2024-03-19T11:04",
+          "place": {
+            "name": "Luquillo Beach",
+            "description": "Known as 'La Monserrate,' Luquillo Beach is a beautiful crescent-shaped beach with calm waters and a backdrop of lush green mountains.",
+            "images": [
+              "https://www.discoverpuertorico.com/sites/default/files/listing_images/profile/5042/Kioskos-de-Luquillo-6_36988A41-5056-A36A-08D65EFA5E21D7B6-36987f165056a36_36988c93-5056-a36a-084a05349f6d29a4.jpg",
+              "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/83/f1.jpg"
+            ]
+          }
+        },
+        {
+          "city": "Rincón",
+          "date": "2024-03-14T17:28",
+          "place": {
+            "name": "El Faro de Rincón",
+            "description": "The iconic Rincon Lighthouse offers panoramic views of the ocean, ideal for whale watching and sunset views.",
+            "images": [
+              "https://www.discoveringpuertorico.com/wp-content/rincon_lighthouse_1.jpg",
+              "https://live.staticflickr.com/3669/9805187513_42cbb67c4d_b.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "iteneraryName": "HERE WE GO 2",
+      "startDate": "2024-03-20",
+      "endDate": "2024-03-29",
+      "placesWillVisit": [
+        {
+          "city": "Rincón",
+          "date": "2024-03-21T15:10",
+          "place": {
+            "name": "The Beach House",
+            "description": "A relaxed atmosphere with an emphasis on fresh, local seafood, perfect for a casual meal by the water. It's the perfect spot to watch the sunset, and it also features live music on Sundays around sunset time.",
+            "images": [
+              "https://media-cdn.tripadvisor.com/media/photo-s/0d/ba/a9/92/view-from-413-road-to.jpg",
+              "https://d14tal8bchn59o.cloudfront.net/cFVqX1QJuqBQrNnOTGDurFhOQD_yxFkHxSUtargDnSI/w:1920/plain/https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/32912/photos/1443123/image-asset_original.jpeg",
+              "https://media-cdn.tripadvisor.com/media/photo-s/11/fa/fd/40/sunset-view-from-the.jpg"
+            ]
+          }
+        }
+      ]
     }
   ]
 }
